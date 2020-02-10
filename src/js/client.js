@@ -1,8 +1,6 @@
 import lastIndexOf from "lodash/lastIndexOf";
 import indexOf from "lodash/indexOf";
-import zip from "lodash/zip";
 import flatten from "lodash/flatten";
-import { reduce } from "react";
 // import transpose from "mathjs/transpose"
 //  1 Representa pieza blanca
 // -1 Representa pieza negra
